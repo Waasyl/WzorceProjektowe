@@ -10,6 +10,7 @@ public class Application {
                 .lastName("Was")
                 .age(21)
                 .phoneNumber("123445678")
+                .zipCode("60-002")
                 .build();
 
         System.out.println(user);
